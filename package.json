@@ -1,0 +1,8 @@
+{
+  "name": "degz-enterprise-hris",
+  "version": "1.0.0",
+  "description": "DEGZ Enterprise HRIS & Philippine Payroll System",
+  "main": "server.js",
+  "scripts": {"start":"node server.js"},
+  "engines": {"node": ">=18"}
+}
